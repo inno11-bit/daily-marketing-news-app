@@ -1,0 +1,44 @@
+keyword,category,enabled
+광고 캠페인,광고/캠페인,TRUE
+브랜드 캠페인,광고/캠페인,TRUE
+마케팅 캠페인,광고/캠페인,TRUE
+옥외광고,광고/캠페인,TRUE
+OOH,광고/캠페인,TRUE
+팝업스토어,프로모션/경험,TRUE
+브랜드 경험,프로모션/경험,TRUE
+프로모션,프로모션/경험,TRUE
+콜라보,브랜드/트렌드,TRUE
+브랜딩,브랜드/트렌드,TRUE
+리브랜딩,브랜드/트렌드,TRUE
+소비자 트렌드,소비자 트렌드,TRUE
+Z세대,소비자 트렌드,TRUE
+잘파세대,소비자 트렌드,TRUE
+팬덤,소비자 트렌드,TRUE
+숏폼,콘텐츠/미디어,TRUE
+인플루언서,콘텐츠/미디어,TRUE
+콘텐츠 마케팅,콘텐츠/미디어,TRUE
+AI 광고,AI 마케팅,TRUE
+AI 마케팅,AI 마케팅,TRUE
+생성형 AI 광고,AI 마케팅,TRUE
+커머스 광고,커머스/플랫폼,TRUE
+리테일 미디어,커머스/플랫폼,TRUE
+멤버십,CRM/데이터,TRUE
+CRM,CRM/데이터,TRUE
+퍼스널라이징,CRM/데이터,TRUE
+광고제 수상작,광고제/수상작,TRUE
+칸 라이언즈,광고제/수상작,TRUE
+에피 어워드,광고제/수상작,TRUE
+대한민국광고대상,광고제/수상작,TRUE
+AI 크리에이티브,AI 마케팅,TRUE
+AI CRM,AI 마케팅,TRUE
+마케팅 자동화,AI 마케팅,TRUE
+소비자 분석,AI 마케팅,TRUE
+제일기획,광고회사,TRUE
+이노션,광고회사,TRUE
+HSAD,광고회사,TRUE
+대홍기획,광고회사,TRUE
+WPP,글로벌 광고회사,TRUE
+Publicis,글로벌 광고회사,TRUE
+Omnicom,글로벌 광고회사,TRUE
+Dentsu,글로벌 광고회사,TRUE
+Accenture Song,글로벌 광고회사,TRUE
